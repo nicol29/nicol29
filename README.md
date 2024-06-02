@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">An aspiring web developer from Ireland</h3>
+<h3 align="center">A Web Developer from Ireland</h3>
 
 - 🔭 I’m currently working on [Rythmix](https://github.com/nicol29/rythmix)
 
